@@ -1,7 +1,7 @@
 
 <?php
 
-$db = mysqli_connect("localhost","id16823324_root","Georgely@123","id16823324_scoreboard");
+$db = mysqli_connect("localhost","id16823324_root","password","id16823324_scoreboard");
 
 if(!$db)
 {
